@@ -171,13 +171,7 @@ class ColorizationWeightInitAE(nn.Module):
         return x_out
 
 def main():
-    '''
-    Main: Due April 22nd
-    Who: Prof. Ben Lengerich 
-    Commit to: Main Branch (MIT CSAIL Research Laboratory 1202)
-    Supervisor: C. Nellington
-    Branch Supervisor: Nilucman Negraman
-    '''
+
     pass
     
 if __name__ == "__main__":
