@@ -1,6 +1,8 @@
 # ChromaNet
 An AE that converts grayscale landscape images to coloured images.
 
+For @fleurcosmos
+
 The architecture of the given ColorizationAutoencoder model is as follows:
 
 Encoder Layers:
